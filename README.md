@@ -6,4 +6,5 @@
 3. Paired t test
 4. Correlation
 5. Chi Square test
+6. Anova test
 ```
